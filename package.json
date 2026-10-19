@@ -1,0 +1,29 @@
+{
+  "name": "creepy-md-v2",
+  "version": "2.0.0",
+  "description": "CREEPY_MD-V2 - WhatsApp Multi-Device bot by CreepyTech. Like V3 but with buttons. Hosted at https://v2.creepytech.org",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "multi-device",
+    "creepytech",
+    "creepy-md",
+    "buttons"
+  ],
+  "author": "Danny Tech / CreepyTech",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.0.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

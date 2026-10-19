@@ -1,0 +1,17 @@
+node_modules/
+npm-debug.log*
+.env
+.env.*
+session/
+*.session
+*.session.json
+.auth/
+auth_info*/
+cred*
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.bak
+*.tmp
